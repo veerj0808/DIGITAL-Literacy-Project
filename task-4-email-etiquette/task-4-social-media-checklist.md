@@ -1,4 +1,4 @@
-# Social Media Do's and Don'ts (For College Students)
+# Social Media Do's and Don'ts 
 
 ## Do's
 - Do think before posting anything online.
