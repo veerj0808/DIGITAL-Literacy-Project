@@ -8,12 +8,12 @@
 This project is part of the **CSE0001 Digital Literacy course**. It covers various aspects of digital awareness, professional communication, online tools, and cyber safety.
 
 ## Repository Structure
-report/ → Final project report  
-task-1-presentation/ → Infographic made using canva
-task-2-portfolio/ → Profile screenshots  of github linkdin kaggle
-task-3-platforms/ → Google Form on digital awareness and hackerrank badge
-task-4-email-etiquette/ → Offical Emails + checklist for do and dont on online platforms
-task-5-cybercrime/ → Case study + prevention checklist for safty from fruad
+'report/ → Final project report  
+'task-1-presentation/ → Infographic made using canva
+'task-2-portfolio/ → Profile screenshots  of github linkdin kaggle
+'task-3-platforms/ → Google Form on digital awareness and hackerrank badge
+'task-4-email-etiquette/ → Offical Emails + checklist for do and dont on online platforms
+'task-5-cybercrime/ → Case study + prevention checklist for safty from fruad
 
 
 ## Module Summary
