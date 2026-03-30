@@ -6,7 +6,7 @@
 - Always verify links before clicking, especially in emails and messages.
 - Enable two-factor authentication (2FA) on your accounts.
 - Avoid using public Wi-Fi for important transactions.
-- Keep your phone and apps updated with the latest security updates.
+- Keep your phone and apps updated with the latest security updates. 
 
 ## UPI / Financial Safety
 - Never approve unknown payment requests on UPI apps.
